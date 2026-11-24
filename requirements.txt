@@ -1,0 +1,8 @@
+# Core algorithms (HMM, Bayes, A*, MDP) require ONLY the Python Standard Library.
+#
+# Optional dependencies for visualization, web UI, benchmark evaluation and slides:
+matplotlib>=3.5.0
+numpy>=1.20.0
+gradio>=4.0.0
+python-pptx>=0.6.21
+pytest>=7.0.0
